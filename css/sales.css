@@ -1,0 +1,135 @@
+body {
+  background-image: url("../img/backgroundImage_index.jpg");
+  background-repeat: no-repeat;
+  background-size: 100%;
+}
+h1 {
+  font-family: 'PT Sans', sans-serif;
+  font-size: 250%;
+  font-weight: bolder;
+  padding: 10px;
+  text-align: center;
+  text-shadow: rgb(189, 111, 39);
+  color: black;
+}
+
+ul {
+  margin: 30px;
+  font-family: 'Karla', sans-serif;
+  font-size: 100%;
+  padding: 20px;
+  list-style: circle;
+  grid-row-gap: 10px;
+  background-color: rgb(10, 3, 3);
+  opacity: 0.5;
+}
+
+p {
+  font-family: 'Karla', sans-serif;
+  font-size: 100%;
+  opacity: 1.0;
+  padding: 30px;
+  color: black;
+}
+
+li {
+  margin: 8px;
+  color: black;
+}
+
+div.location {
+  outline: green;
+  float: left;
+  margin: 20px;
+}
+
+h2 {
+  margin: 5px;
+  font-family: 'Karla', sans-serif;
+  font-size: 180%;
+  clear: both;
+  font-weight: bold;
+  color: black;
+}
+
+#locationtable {
+  margin: 30px;
+  font-family: 'Karla', sans-serif;
+  border-collapse: collapse;
+  clear: both;
+  color: black;
+}
+
+#locationtable td {
+  border: 1px solid rgb(31, 22, 189);
+  padding: 10px;
+}
+
+#locationtable tr:nth-child(even){
+  background-color: white;
+  opacity: 0.5;
+}
+
+#locationtable tr:nth-child(odd){
+  background-color: white;
+  opacity: 0.5;
+}
+
+#locationtable tr:first-child{
+  background-color:red;
+  color: black;
+}
+
+#locationtable tr:hover {
+  background-color: grey;
+  color: white
+}
+
+h1 {
+  font-family: 'PT Sans', sans-serif;
+  font-size: 250%;
+  font-weight: bolder;
+  padding: 10px;
+  text-align: center;
+  text-shadow: rgb(189, 111, 39);
+  color: black;
+}
+
+ul {
+  margin: 30px;
+  font-family: 'Karla', sans-serif;
+  font-size: 100%;
+  padding: 20px;
+  list-style: circle;
+  grid-row-gap: 10px;
+  background-color: rgb(236, 227, 227);
+  opacity: 0.5;
+}
+
+p {
+  font-family: 'Karla', sans-serif;
+  font-size: 100%;
+  opacity: 1.0;
+  padding: 30px;
+  color: black;
+}
+
+li {
+  margin: 8px;
+  color: black;
+}
+
+div.location {
+  outline: green;
+  float: left;
+  margin: 20px;
+}
+
+h2 {
+  margin: 5px;
+  font-family: 'Karla', sans-serif;
+  font-size: 180%;
+  clear: both;
+  font-weight: bold;
+  color: black;
+}
